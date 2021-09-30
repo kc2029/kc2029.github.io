@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Page 2"
+title: "Site Launched "
 date: 2021-09-29
 ---
 
-This is page two
+Here is a test of different text edit, **Bold**, *Italic* ***Bold and Italic***
