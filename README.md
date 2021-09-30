@@ -2,7 +2,12 @@
 
 ## This is a tutorial of learning to create basic webapge on github with Jekyll and markdown syntax
 
+**Bold**
+
+*Italic*
   
   
   
-  [I'm an inline-style link] kc2029.github.io
+  (https://kc2029.github.io/)
+
+
