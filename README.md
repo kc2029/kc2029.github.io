@@ -1,8 +1,8 @@
 # Welcome to my first webpage
 
-##This is  my first webpage from Web programing<i>
+## This is a tutorial of learning to create basic webapge on github with Jekyll and markdown syntax
 
   
   
   
-  kc2029.github.io
+  [I'm an inline-style link] kc2029.github.io
