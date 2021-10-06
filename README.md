@@ -1,6 +1,6 @@
 # Welcome to my first webpage
 
-## This is a tutorial of learning to create basic webpage on github with Jekyll and markdown syntax
+## This is a tutorial of learning to create basic webpage on github with Jekyll and markdown syntax etc on github
 
 **Bold**
 
