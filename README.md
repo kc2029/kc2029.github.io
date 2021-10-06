@@ -8,7 +8,7 @@
   
   
   
-  ![](Heriotwatt.png)
+  ![](Heriotwatt.png) <br /> 
   (https://kc2029.github.io/)
 
 
